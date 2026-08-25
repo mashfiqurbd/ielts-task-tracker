@@ -1,0 +1,6 @@
+{
+  "name": "IELTS Task Tracker",
+  "description": "An intelligent, task-based IELTS preparation system with adaptive study planner, mistake notebook analytics, writing grading, speaking recorder, and personalized vocabulary.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
